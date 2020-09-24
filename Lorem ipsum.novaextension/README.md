@@ -8,12 +8,12 @@ You spent time to search documentations for any actual platform to make multi-pl
 
 ### Features
 - Original and a few funny Lorem Ipsum
--- Lorem ipsum
--- Trump ipsum
--- Hipster ipsum
--- Zombie ipsum
--- Vegan ipsum
--- others
+	- Lorem ipsum
+	- Trump ipsum
+	- Hipster ipsum
+	- Zombie ipsum
+	- Vegan ipsum
+	- others
 - Done in 200ms (1 click)
 - No hard decision
 - No Google search :)
