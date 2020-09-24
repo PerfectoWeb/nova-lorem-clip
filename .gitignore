@@ -1,0 +1,15 @@
+*.log
+*.sql
+*.sql.gz
+*.sqlite
+.gitignore
+.gitattributes
+.DS_Store
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.nova/*
+.nova/Configuration.json
+logs
+*.log
