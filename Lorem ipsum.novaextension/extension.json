@@ -4,7 +4,7 @@
     "vendor": "David Petrosyan",
     "organization": "PerfectoWeb",
     "description": "A simple way to generate lorem ipsum text for your project.",
-    "version": "1.1",
+    "version": "1.1.1",
     "repository": "https://github.com/PerfectoWeb/nova-lorem-clip",
     "homepage": "https://perfecto-web.com/?utm_campaign=open_source&utm_source=Nova&utm_medium=favicon_clip",
     "bugs": "https://github.com/PerfectoWeb/nova-lorem-clip/issues",
