@@ -29,4 +29,4 @@ If that doesn't work, just clone this project (or download it from the releases 
 [Nova](https://panic.com/nova) is the new editor from [Panic Inc](https://panic.com).
 
 Thanks for your choice!
-If you’d like to get more user friendly projects, make sure to give me a star. ☺️
+If you’d like to get more user friendly projects, make sure to give me a star! ☺️
