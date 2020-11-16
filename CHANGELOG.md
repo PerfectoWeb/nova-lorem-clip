@@ -1,3 +1,7 @@
+## Version 1.1.2
+
+- Update donation info. Give me a cup of 🍺
+
 ## Version 1.1.1
 
 - Fixes
