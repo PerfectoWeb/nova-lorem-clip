@@ -30,3 +30,5 @@ If that doesn't work, just clone this project (or download it from the releases 
 
 Thanks for your choice!
 If you’d like to get more user friendly projects, make sure to give me a star! ☺️
+
+<a href="https://www.buymeacoffee.com/PerfectoWeb" target="_blank" rel="noreferrer noopener"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg" alt="Buy me a coffee"></a>
