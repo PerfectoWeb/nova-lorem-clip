@@ -9,11 +9,13 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ### Features
 - Original and a few funny Lorem Ipsum
-	- Lorem ipsum
-	- Trump ipsum
-	- Hipster ipsum
-	- Zombie ipsum
-	- Vegan ipsum
+	- Lorem ipsum (EN)
+	- Trump ipsum (EN)
+	- Hipster ipsum (EN)
+	- Zombie ipsum (EN)
+	- Vegan ipsum (EN)
+	- За словесными горами (RU)
+	- Кафка (RU)
 	- others
 - Done in 200ms (1 click)
 - No hard decision
@@ -29,6 +31,6 @@ If that doesn't work, just clone this project (or download it from the releases 
 [Nova](https://panic.com/nova) is the new editor from [Panic Inc](https://panic.com).
 
 Thanks for your choice!
-If you’d like to get more user friendly projects, make sure to give me a star. ☺️
+If you’d like to get more user friendly projects, make sure to give me a star! ☺️
 
 <a href="https://www.buymeacoffee.com/PerfectoWeb" target="_blank" rel="noreferrer noopener"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg" alt="Buy me a coffee"></a>

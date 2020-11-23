@@ -9,11 +9,13 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ### Features
 - Original and a few funny Lorem Ipsum
-	- Lorem ipsum
-	- Trump ipsum
-	- Hipster ipsum
-	- Zombie ipsum
-	- Vegan ipsum
+	- Lorem ipsum (EN)
+	- Trump ipsum (EN)
+	- Hipster ipsum (EN)
+	- Zombie ipsum (EN)
+	- Vegan ipsum (EN)
+	- За словесными горами (RU)
+	- Кафка (RU)
 	- others
 - Done in 200ms (1 click)
 - No hard decision

@@ -1,3 +1,7 @@
+## Version 1.2
+
+- Added new clips for Russian developers.
+
 ## Version 1.1.2
 
 - Update donation info. Give me a cup of 🍺
