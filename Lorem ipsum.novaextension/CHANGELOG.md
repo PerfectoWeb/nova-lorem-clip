@@ -1,3 +1,7 @@
+## Version 1.3
+
+- Added structuring by catalogs
+
 ## Version 1.2
 
 - Added new clips for Russian developers.
